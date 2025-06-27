@@ -1,9 +1,9 @@
 # Robotic Final Project
 
 ## 📦 Project Structure
-├── map/ # Data generation for path planning
-├── test/ # Model evaluation, including local models and API-based inference
-├── README.md # This file
+├── map/ # Data generation for path planning \\
+├── test/ # Model evaluation, including local models and API-based inference \\
+├── README.md # This file \\
 
 ## 🚀 Project Description
 This project explores the application of large language models (LLMs) in robot path planning tasks. We develop a data generation module and evaluate different models, including:
